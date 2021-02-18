@@ -1,0 +1,6 @@
+.special-day span{
+    font-size: 15px;
+    background-color: aqua;
+    padding: 2px 10px 2px 10px;
+    border-radius: 5px;
+}
